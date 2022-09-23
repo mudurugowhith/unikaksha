@@ -23,11 +23,11 @@ print(x)
 x=input()
 print(x)
 
-ascii-1
+#ascii-1
 a=input()
 print(ord(a))
 
 
-ascii-2
-a=input()
-print(ord(a))
+#ascii-2
+a=int(input())
+print(chr(a))
